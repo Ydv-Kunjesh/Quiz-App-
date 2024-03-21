@@ -30,7 +30,7 @@
 #### Scoring:
 - Calculate the user's score based on the number of correct answers.
 - Display the final score to the user after completing the quiz.
-- 
+
 ## DEMO
 
 | Platform | Url |
